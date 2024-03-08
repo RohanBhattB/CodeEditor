@@ -1,0 +1,1 @@
+# This CodeEditor is a web based platform that allows the new begginer of webpogramming do do thie HTML,CSS and JavaScript project in realtime. It provides a realtime seamless environment best for begginers -Rohan Bhatt
